@@ -1,6 +1,6 @@
 # ClassificationwithCNNs
 Image Classification examples with Convolutional Neural Networks in Pytorch Framework</br>
-House image dataset link: https://drive.google.com/drive/folders/1krgTrXeyC0rZZYLjzjtNLG-SAuXF2R5m?usp=sharing </br>
+House image dataset link: https://drive.google.com/file/d/10pIGHCyPXR0a6XxORTf_hoeEQgAxBixw/view?usp=sharing </br>
 
 Vgg16_classify file has training a vgg16 model using transfer learning.</br>
 
